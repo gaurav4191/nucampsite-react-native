@@ -27,6 +27,8 @@ class Contact extends Component {
             <Text style={{ marginBottom: 10 }}>U.S.A.</Text>
             <Text>Phone: 1-206-555-1234</Text>
             <Text>Email: campsites@nucamp.co</Text>
+            
+
             <Button
                 title="Send Email"
                 buttonStyle={{backgroundColor: '#5637DD', margin: 40}}
